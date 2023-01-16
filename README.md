@@ -1,4 +1,5 @@
 # Smart-Delivery-System
+![Green White Modern Delivery Express Presentation](https://user-images.githubusercontent.com/74280845/212630553-aa0673a4-061b-4a47-a937-f2a65b26bb34.png)
 
 Smart Delivery System is our project which the main function is to notify the user about package arrival. 
 
